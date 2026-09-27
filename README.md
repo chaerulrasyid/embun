@@ -1,5 +1,7 @@
 # Embun
 
+[Buka aplikasi Embun](https://chaerulrasyid.github.io/embun/)
+
 **Cermin kamera interaktif yang dapat berembun, ditulis dengan gerakan tangan, dan mengambil foto tanpa menyentuh layar.**
 
 Embun berjalan langsung di browser. Buka mulut seperti sedang meniup kaca untuk menambahkan embun, lalu cubit ibu jari dan telunjuk untuk menulis atau menyeka permukaannya. Tidak memerlukan instalasi aplikasi, mikrofon, ataupun server pemrosesan video.
